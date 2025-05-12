@@ -226,6 +226,7 @@ body::before{
 }
 .section-message img{
     height: 180px;
-    width: fit-content;
+    width: auto;
+    object-fit: contain;
 }
 /* END SECTION: MESSAGE */
