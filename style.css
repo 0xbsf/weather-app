@@ -58,6 +58,14 @@ body::before{
 .regular-txt{
     font-weight: 400;
 }
+
+.main-message-txt{
+    font-family: "Cairo", sans-serif;
+    font-weight: 660;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
 .arabic-txt{
     font-family: "Cairo", sans-serif;
     font-weight: 500;
